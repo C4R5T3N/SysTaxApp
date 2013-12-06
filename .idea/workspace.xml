@@ -2,7 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aa1ae4b-340c-4098-b9df-b7409726b444" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ubuntu/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ubuntu/shoot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ubuntu/toolbar-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ubuntu/toolbar-middle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ubuntu/toolbar-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/.fetch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ios/CDVCamera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ios/CDVCamera.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ios/CDVExif.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ios/CDVJpegHeaderWriter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ios/CDVJpegHeaderWriter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/wp/Camera.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/www/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/www/CameraConstants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/android/CameraLauncher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/www/ios/CameraPopoverHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/parameter/CameraPopoverHandle.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/parameter/CameraPopoverOptions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/firefoxos/CameraProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/windows8/CameraProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ubuntu/CaptureWidget.qml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/android/ExifHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/android/FileHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/html/HtmlReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/html/HtmlReporterHelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/html/ReporterView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/html/SpecView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/html/SuiteView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SysTax.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/html/TrivialReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/camera.cleanup.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ubuntu/camera.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/camera.getPicture.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/ubuntu/camera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/pages/camera.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/firefoxos/camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/camera.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/tests/camera.tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/parameter/cameraError.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/parameter/cameraOptions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/parameter/cameraSuccess.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/cordova-incl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/camera/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/master.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/test/autotest/test-runner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +87,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="65" selection-start="1500" selection-end="1500" vertical-scroll-proportion="1.2903225" vertical-offset="0" max-vertical-offset="720">
+            <state line="35" column="45" selection-start="1584" selection-end="1594" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="720">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cameraError.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/parameter/cameraError.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/org.apache.cordova.camera/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,8 +157,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="x" value="1280" />
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -91,17 +193,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
+              <option name="myItemId" value="SysTax" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
+              <option name="myItemId" value="SysTax" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
+              <option name="myItemId" value="SysTaxApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -111,11 +213,65 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
+              <option name="myItemId" value="SysTax" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
+              <option name="myItemId" value="SysTaxApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SysTax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SysTaxApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SysTax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SysTaxApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SysTax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SysTaxApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -124,10 +280,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="JavaScript.Libraries" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/www" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/myApp/www/index.html">
@@ -207,26 +368,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="1280" y="22" width="1920" height="1058" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6011004" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39889959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16614583" sideWeight="0.70558375" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29441625" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -243,7 +404,72 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="65" selection-start="1500" selection-end="1500" vertical-scroll-proportion="1.2903225" vertical-offset="0" max-vertical-offset="720">
+        <state line="13" column="59" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="59" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="59" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="59" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="957">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="45" selection-start="1584" selection-end="1594" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/org.apache.cordova.camera/docs/parameter/cameraError.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="957">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/org.apache.cordova.camera/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="957">
           <folding />
         </state>
       </provider>
