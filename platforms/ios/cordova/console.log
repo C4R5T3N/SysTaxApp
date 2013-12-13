@@ -1,0 +1,13 @@
+2013-12-12 13:45:03.389 SysTax[1881:80b] Multi-tasking -> Device: YES, App: YES
+2013-12-12 13:45:03.606 SysTax[1881:80b] Unlimited access to network resources
+2013-12-12 13:45:07.348 SysTax[1881:80b] [CDVTimer][splashscreen] 309.520960ms
+2013-12-12 13:45:07.349 SysTax[1881:80b] [CDVTimer][TotalPluginStartup] 310.198963ms
+2013-12-12 13:45:07.685 SysTax[1881:80b] Resetting plugins due to page load.
+2013-12-12 13:45:08.122 SysTax[1881:80b] Finished load of: file:///Users/carstenanton/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/4DE4571A-5E4F-4B63-8982-4BAEBD1DD78E/SysTax.app/www/index.html
+2013-12-12 17:26:43.791 SysTax[2317:80b] Multi-tasking -> Device: YES, App: YES
+2013-12-12 17:26:44.237 SysTax[2317:80b] Unlimited access to network resources
+2013-12-12 17:26:47.590 SysTax[2317:80b] [CDVTimer][splashscreen] 241.851985ms
+2013-12-12 17:26:47.591 SysTax[2317:80b] [CDVTimer][TotalPluginStartup] 242.379963ms
+2013-12-12 17:26:47.742 SysTax[2317:80b] Resetting plugins due to page load.
+2013-12-12 17:26:48.146 SysTax[2317:80b] Finished load of: file:///Users/carstenanton/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/4DE4571A-5E4F-4B63-8982-4BAEBD1DD78E/SysTax.app/www/index.html
+2013-12-12 17:27:02.840 SysTax[2317:80b] Received memory warning.
