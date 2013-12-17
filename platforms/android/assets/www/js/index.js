@@ -34,17 +34,8 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
-        var element = document.getElementById('deviceproperties');
-        element.innerHTML='Device Name:'+device.name;
-        navigator.notification.alert("Phonegap is working");
-        var alter=10;
+        navigator.notification.alert("camera");
 
-        if(alter<18){
-            navigator.notification.alert("Minderjährig")
-        }
-        else {
-            navigator.notification.alert("Volljährig"+alter)
-        }
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
@@ -56,6 +47,28 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+    },
+    capturephoto:function(){
+        navigator.camera.getPicture(this.onSuccess, this.onFail);
+
+    },
+    onSuccess:function(imageURI){
+        var image=document.getElementById('myImage');
+        image.src=imageURI;
+    },
+    onFail:function(message){
+        alert('Fail'+message);
     }
 };
-document.getElementById("klick").onclick = function(){navigator.notification.alert("Du hast geklickt!")};
+    document.getElementById("visit").onclick = function(){
+        var domain='http://www.systax.org'
+        var ref=window.open(domain,'_blank','location=yes');
+        ref.addEventListener('loadstart', function(event){alert('start'+event.url)});
+        ref.addEventListener('exit', function(event){navigator.notification.alert('start'+event.url)});
+    };
+
+document.getElementById("snap").onclick = function(){
+    app.capturephoto();
+
+};
+
