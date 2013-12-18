@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aa1ae4b-340c-4098-b9df-b7409726b444" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/bin/res/drawable-mdpi/path28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-mdpi/path28.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/classes/org/systax/SysTaxApp/R$drawable.class" afterPath="$PROJECT_DIR$/platforms/android/bin/classes/org/systax/SysTaxApp/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/classes/org/systax/SysTaxApp/R$string.class" afterPath="$PROJECT_DIR$/platforms/android/bin/classes/org/systax/SysTaxApp/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/classes/org/systax/SysTaxApp/R$xml.class" afterPath="$PROJECT_DIR$/platforms/android/bin/classes/org/systax/SysTaxApp/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/classes/org/systax/SysTaxApp/R.class" afterPath="$PROJECT_DIR$/platforms/android/bin/classes/org/systax/SysTaxApp/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/SysTax-debug-unaligned.apk" afterPath="$PROJECT_DIR$/platforms/android/bin/SysTax-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/SysTax-debug.apk" afterPath="$PROJECT_DIR$/platforms/android/bin/SysTax-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/SysTax.ap_" afterPath="$PROJECT_DIR$/platforms/android/bin/SysTax.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/classes.dex" afterPath="$PROJECT_DIR$/platforms/android/bin/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/dexedLibs/cordova-3.2.0-61a766e65b68b8f78ff84206deddce84.jar" afterPath="$PROJECT_DIR$/platforms/android/bin/dexedLibs/cordova-3.2.0-61a766e65b68b8f78ff84206deddce84.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-36-ldpi.png" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-36-ldpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-48-mdpi.png" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-48-mdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-72-hdpi.png" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-72-hdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-96-xhdpi.png" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-96-xhdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/res/drawable/icon.png" afterPath="$PROJECT_DIR$/platforms/android/bin/res/drawable/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/res/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/bin/res/drawable-hdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/res/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/bin/res/drawable-ldpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/res/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/bin/res/drawable-mdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/res/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/bin/res/drawable-xhdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-hdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-ldpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-mdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-xhdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/img/logo.png" afterPath="$PROJECT_DIR$/platforms/android/assets/www/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/logo.png" afterPath="$PROJECT_DIR$/www/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/gen/R.java.d" afterPath="$PROJECT_DIR$/platforms/android/gen/R.java.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/gen/org/systax/SysTaxApp/R.java" afterPath="$PROJECT_DIR$/platforms/android/gen/org/systax/SysTaxApp/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/SysTax.ap_.d" afterPath="$PROJECT_DIR$/platforms/android/bin/SysTax.ap_.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/bin/build.prop" afterPath="$PROJECT_DIR$/platforms/android/bin/build.prop" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/defaults.xml" afterPath="$PROJECT_DIR$/platforms/android/cordova/defaults.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
     </list>
     <ignored path="myApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,33 +32,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icon.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-hdpi/icon.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-ldpi/icon.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-mdpi/icon.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -106,10 +48,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icon.png" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="icon.png" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-xhdpi/icon.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="26" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-8.0" vertical-offset="318" max-vertical-offset="885">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="74" selection-start="803" selection-end="803" vertical-scroll-proportion="0.50442475" vertical-offset="0" max-vertical-offset="1140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/spec.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="22" selection-start="830" selection-end="830" vertical-scroll-proportion="-10.416667" vertical-offset="5" max-vertical-offset="1110">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -152,12 +121,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/systax.html" />
         <option value="$PROJECT_DIR$/www/css/index.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
       </list>
     </option>
   </component>
@@ -211,90 +180,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SysTax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SysTaxApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SysTax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SysTaxApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SysTax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SysTaxApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SysTax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SysTaxApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -420,13 +305,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="711" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.165625" sideWeight="0.6720779" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.165625" sideWeight="0.6720779" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29383117" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -458,31 +343,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="26" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-7.375" vertical-offset="333" max-vertical-offset="885" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/spec.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="23.708334" vertical-offset="569" max-vertical-offset="1110" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="0" selection-start="2696" selection-end="2696" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="945" />
+        <state line="71" column="0" selection-start="2696" selection-end="2696" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="945">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/img/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="63" selection-start="1713" selection-end="1713" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1110">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-hdpi/icon.png">
@@ -535,6 +405,27 @@
     <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-xhdpi/icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="22" selection-start="830" selection-end="830" vertical-scroll-proportion="-10.416667" vertical-offset="5" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="26" selection-start="1528" selection-end="1528" vertical-scroll-proportion="-8.0" vertical-offset="318" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="74" selection-start="803" selection-end="803" vertical-scroll-proportion="0.50442475" vertical-offset="0" max-vertical-offset="1140">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

@@ -16,6 +16,8 @@
     <!-- app is able to communicate with all domains. Restrict the accessable domains asap!!!-->
 
     <gap:platform name="android"/>
+    <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
+    <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
     <access origin="http://127.0.0.1*" />
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
