@@ -3,7 +3,6 @@
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/res/drawable-hdpi/icon.png \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/res/drawable-ldpi/icon.png \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/res/drawable-mdpi/icon.png \
-/Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/res/drawable-mdpi/path28.png \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/res/drawable-xhdpi/icon.png \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/res/values/strings.xml \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/res/xml/config.xml \
@@ -11,7 +10,6 @@
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/bin/res/drawable-hdpi/icon.png \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/bin/res/drawable-ldpi/icon.png \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/bin/res/drawable-mdpi/icon.png \
-/Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/bin/res/drawable-mdpi/path28.png \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/bin/res/drawable-xhdpi/icon.png \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/assets/www \
 /Users/carstenanton/Documents/workspace/SysTaxApp/platforms/android/assets/www/config.xml \
